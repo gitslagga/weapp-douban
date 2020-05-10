@@ -7,11 +7,11 @@ Page({
    * 页面的初始数据
    */
   data: {
-    title: 'About',
+    title: '我的微信',
     userInfo: {
       wechat: 'WEDN-NET',
-      nickName: 'https://github.com/zce/weapp-douban',
-      avatarUrl: 'https://img.zce.me/qrcode/wechat.jpg'
+      nickName: '',
+      avatarUrl: '../../images/wechat.jpg'
     }
   },
 
